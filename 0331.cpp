@@ -67,7 +67,7 @@ int main()
 	{
 		//Frame
 		//Input();
-		char Key ;
+		char Key = 0;
 		Key >> _getch();
 		//Tick();
 		if (Key == 'd')
