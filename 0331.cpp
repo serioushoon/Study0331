@@ -86,6 +86,10 @@ int main()
 		{
 			PlayerY--;
 		}
+		else if (Key == 'q')
+		{
+			blsRunning;
+		}
 
 
 		//Render();
