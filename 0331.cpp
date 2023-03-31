@@ -67,7 +67,7 @@ int main()
 	{
 		//Frame
 		//Input();
-		char Key;
+		char Key ;
 		Key >> _getch();
 		//Tick();
 		if (Key == 'd')
@@ -88,7 +88,7 @@ int main()
 		}
 		else if (Key == 'q')
 		{
-			blsRunning;
+			blsRunning = false;
 		}
 
 
